@@ -1,4 +1,4 @@
 # gitskills
 readMe
 Create a new branch is a quick and simple.
-Git is very simple tool.
+Git is a very simple tool.
